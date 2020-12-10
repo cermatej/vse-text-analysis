@@ -3,3 +3,7 @@ seaborn
 https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.2.0/en_core_web_md-2.2.0.tar.gz#egg=en_core_web_md
 pandas-profiling[notebook]
 plotly
+google-cloud-language
+google-cloud
+google-cloud-vision
+google-oauth

@@ -1,0 +1,8 @@
+Datasets based on the INRIA dataset
+
+INRIA is the copyright holder of all the images included in the dataset.
+
+If you use this dataset, please cite the following paper:
+Herve Jegou, Matthijs Douze and Cordelia Schmid
+"Hamming Embedding and Weak geometry consistency for large scale image search"
+Proceedings of the 10th European conference on Computer vision, October, 2008
